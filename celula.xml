@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<celulas>
+	<celula id="1">
+		<nomecelula>Celula1</nomecelula>
+		<lider>Lider1</lider>
+		<latitude>-16.64178397954887</latitude>
+		<longitude>-49.33187484741211</longitude>
+	</celula>	
+	<celula id="2">
+		<nomecelula>Celula2</nomecelula>
+		<lider>Lider2</lider>
+		<latitude>-16.619332351419818</latitude>
+		<longitude>-49.32380676269531</longitude>
+	</celula>
+	<celula id="3">
+		<nomecelula>Celula3</nomecelula>
+		<lider>Lider3</lider>
+		<latitude>-16.66036831984375</latitude>
+		<longitude>-49.291019439697266</longitude>
+	</celula>	
+	-->
+</celulas>	
